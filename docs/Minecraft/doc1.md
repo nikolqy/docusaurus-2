@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: Hypixel
-sidebar_label: Hypixel
+sidebar_label: Hypixel 💖❤️
 ---
 
 # Installation
