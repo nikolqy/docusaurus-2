@@ -1,5 +1,5 @@
 ---
-id: Hypixithel
+id: doc5
 title: Hypixel
 ---
 
