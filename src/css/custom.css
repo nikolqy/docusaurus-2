@@ -26,3 +26,6 @@
 menu__link menu__link--active {
   background-color:red;
 }
+html {
+  color:red;
+}
