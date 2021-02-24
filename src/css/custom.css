@@ -28,3 +28,10 @@
 .menu .menu__link.menu__link--active:not(.menu__link--sublist) {
  font-weight:600; 
 }
+
+.menu__link.menu__link--active {
+  font-weight:600;
+}
+.menu .menu__link {
+  border-radius:0px;
+}
