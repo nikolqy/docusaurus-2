@@ -24,3 +24,7 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.menu .menu__link.menu__link--active:not(.menu__link--sublist) {
+ font-weight:600; 
+}
