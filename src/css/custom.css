@@ -26,6 +26,5 @@
 
 menu__link menu__link--active {
   background-color:#f2f2f2;
-  color:#171717;
-  font-weight:bold;
+  font-weight:600;
 }
